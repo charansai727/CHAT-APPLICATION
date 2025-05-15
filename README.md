@@ -46,3 +46,5 @@ Potential for Extension
 While the current implementation stores chat history in memory, it can be extended to use persistent databases like MongoDB or PostgreSQL for durability across server restarts. Additional features such as user authentication, multimedia sharing, message reactions, and notifications can also be integrated to create a full-fledged messaging platform.
 
 This project effectively demonstrates the power of real-time web technologies and serves as a solid foundation for building scalable, interactive communication applications.
+
+*OUTPUT* ![Image](https://github.com/user-attachments/assets/03c2fee3-4490-4433-ac03-9093854b1d34)
